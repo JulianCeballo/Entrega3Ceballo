@@ -1,0 +1,326 @@
+[
+  {
+      "id": 1795,
+      "nombre": "Gabinete Corsair Carbide Spec 05 Negro/Gris",
+      "precio": 595.46,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/03/CC-9011138-WW_800.jpg"
+  },
+  {
+      "id": 1796,
+      "nombre": "XIAOMI MI TV STICK",
+      "precio": 187.96,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/03/6179_800.jpg"
+  },
+  {
+      "id": 1798,
+      "nombre": "EXTENSOR RANGO TP LINK WA850RE 300Mbps",
+      "precio": 63.67,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/TL-WA850REAR-04.jpg"
+  },
+  {
+      "id": 1897,
+      "nombre": "PARLANTE BT JBL FLIP 5 WATERPROOF",
+      "precio": 206.98,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2024/05/4509_800.jpg"
+  },
+  {
+      "id": 1905,
+      "nombre": "PARLANTE BT JBL GO 2",
+      "precio": 130.51,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/07/6925281948527_800.jpg"
+  },
+  {
+      "id": 1916,
+      "nombre": "Xiaomi Mi True Wireless Earbuds Basic 2",
+      "precio": 124.87,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/07/earbuds-xiaomi-mi-true-wireles-basic-s1-4c4b174ae2f323a5cd16080875805030-640-0.jpg"
+  },
+  {
+      "id": 1946,
+      "nombre": "PARLANTE BT JBL GO 3",
+      "precio": 90.22,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/954585-MLA26148880591_102017-F.jpg"
+  },
+  {
+      "id": 1954,
+      "nombre": "Auricular Bluetooth JBL T110 in Ear Negro",
+      "precio": 67.52,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/4522_400.jpg"
+  },
+  {
+      "id": 1964,
+      "nombre": "Monopatín Eléctrico Dayama GoTrax V2",
+      "precio": 787.43,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/798135511814_800.jpg"
+  },
+  {
+      "id": 1971,
+      "nombre": "Roku 3930 Se",
+      "precio": 120.39,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-04-at-15.56.02.jpeg"
+  },
+  {
+      "id": 1977,
+      "nombre": "TABLET HDC T7I-232 7\" IPS 1024*600 - ALLWINNER A133 - 2/32GB - CON FUNDA DE SILICONA ROJA",
+      "precio": 111.42,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/7798135512262_800.jpg"
+  },
+  {
+      "id": 1998,
+      "nombre": "Auricular Bluetooth Hook Ear Moonki Sound 616BT",
+      "precio": 22.50,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/7798135511098_800.jpg"
+  },
+  {
+      "id": 2004,
+      "nombre": "PARLANTE PORTÁTIL MOONKI SOUND L2077BT",
+      "precio": 101.63,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/7798135512248_800.jpg"
+  },
+  {
+      "id": 2010,
+      "nombre": "PARLANTE POTENCIADO MOONKI SOUND MS-X265BT",
+      "precio": 264.39,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2023/12/6800_800.jpg"
+  },
+  {
+      "id": 2027,
+      "nombre": "AURICULAR GAMING JBL QUANTUM 200",
+      "precio": 73.10,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/6925281969553_800.jpg"
+  },
+  {
+      "id": 2040,
+      "nombre": "Parlante Moonki Portátil Bluetooth MS-900 IluminacionLed",
+      "precio": 294.73,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/7798135510800_800.jpg"
+  },
+  {
+      "id": 2050,
+      "nombre": "Parlante Moonki Portátil Bluetooth MS LED1200W",
+      "precio": 403.35,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/7798135512460_800-1.jpg"
+  },
+  {
+      "id": 2061,
+      "nombre": "Parlante Potenciado Moonki Sound Ms-1600b",
+      "precio": 318.34,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/7798135512477_800.jpg"
+  },
+  {
+      "id": 2070,
+      "nombre": "Torre De Sonido Moonki Sound MW-M2823LT",
+      "precio": 697.09,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/08/000000MW-M2823LT22150MW-M2823LT.jpg"
+  },
+  {
+      "id": 2078,
+      "nombre": "STEREO DOBLE DIN BLAUPUNKT BERLIN 6.2\" +PAR DE PARLANTES",
+      "precio": 493.83,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/5246_800.jpg"
+  },
+  {
+      "id": 2084,
+      "nombre": "Amplificador Boss AR1200W.2 2 Can Puneteable A1",
+      "precio": 135.07,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/2_213.jpg"
+  },
+  {
+      "id": 2097,
+      "nombre": "PARLANTE BOSS 6\"x9\"CH6930 3V 400W 4 Ohms",
+      "precio": 122.07,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/392_800.jpg"
+  },
+  {
+      "id": 2102,
+      "nombre": "Parlante Boss 6,5\" CH6530 3V 300Watts 4-Ohm",
+      "precio": 71.99,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/791489104937_800-1.jpg"
+  },
+  {
+      "id": 2104,
+      "nombre": "Stereo + Parlantes Pioneer MXTX3969BT",
+      "precio": 449.93,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/884938377508_800.jpg"
+  },
+  {
+      "id": 2109,
+      "nombre": "Smart Band Amazfit Band 5 Naranja",
+      "precio": 101.27,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/S2005OV3N_800.jpg"
+  },
+  {
+      "id": 2113,
+      "nombre": "Smartwatch Amazfit Gts 2e Bt 5.0 1.65\" Gps Negro",
+      "precio": 123.74,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/W1969OV1N_800.jpg"
+  },
+  {
+      "id": 2119,
+      "nombre": "MOTHERBOARD ASUS PRIME B550M-A/CSM DUAL M.2 AURA ATX (AM4)",
+      "precio": 438.64,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/90MB14I0-M0EAY0_800.jpg"
+  },
+  {
+      "id": 2128,
+      "nombre": "DISCO SSD KINGSTON 240 GB A400",
+      "precio": 56.24,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/740617261219_800.jpg"
+  },
+  {
+      "id": 2133,
+      "nombre": "Motherboard Asus Prime A320M-K (Amd AM4)",
+      "precio": 348.68,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/4712900672060_800.jpg"
+  },
+  {
+      "id": 2135,
+      "nombre": "Micro AMD Ryzen 5 7600 5.1HGZ (AM5)",
+      "precio": 990.61,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/100-100001015BOX_800.jpg"
+  },
+  {
+      "id": 2138,
+      "nombre": "Silla Gamer AK Racing Octane White",
+      "precio": 677.11,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/853845007709_800.jpg"
+  },
+  {
+      "id": 2162,
+      "nombre": "PC OFICINA CORE I3-10105/SSD 240GB/8GBRAM/",
+      "precio": 941.65,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/PCHDCi310105-240-8-W_800.jpg"
+  },
+  {
+      "id": 2164,
+      "nombre": "Smart Band Amazfit Band 5 Negro",
+      "precio": 106.90,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/XIAOMI-Wristband-4-BLK_800-ANIMATION.gif"
+  },
+  {
+      "id": 2174,
+      "nombre": "DISCO SSD EXTERNO 480GB SANDISK SDSSDE30 USB TIPO-C 3.2",
+      "precio": 180.06,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/09/disco-externo-ssd-sandisk-portable-480gb-usb-3-2-tipo-c.jpg"
+  },
+  {
+      "id": 2196,
+      "nombre": "Auricular In Ear Moonki Sound 312",
+      "precio": 8.44,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/10/4097_800.jpg"
+  },
+  {
+      "id": 2209,
+      "nombre": "Fuente Corsair CV550 Cert. 80 Plus Bronze",
+      "precio": 159.63,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/10/840006615095_800.jpg"
+  },
+  {
+      "id": 2222,
+      "nombre": "Game Pad Marvo Gt 016 PC /PS3",
+      "precio": 44.99,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/10/4667_800.jpg"
+  },
+  {
+      "id": 2247,
+      "nombre": "Teclado Logitech K400 Plus",
+      "precio": 88.88,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/oiIUv2LE1GldkK53.jpg"
+  },
+  {
+      "id": 2264,
+      "nombre": "Mouse + pad Marvo Scorpions G909+G1",
+      "precio": 25.88,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/36.png"
+  },
+  {
+      "id": 2281,
+      "nombre": "ROUTER TP LINK WR820N WIFI N300 2ANT",
+      "precio": 33.75,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/D_NQ_NP_663868-MLA31883500252_082019-W.jpg"
+  },
+  {
+      "id": 2312,
+      "nombre": "MICRÓFONO STREAMING USB MARVO MIC-03",
+      "precio": 94.46,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/6932391921982_800.jpg"
+  },
+  {
+      "id": 2319,
+      "nombre": "GOOGLE CHROMECAST 3 GREY WIFI FULL HD",
+      "precio": 90.22,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/5.jpg"
+  },
+  {
+      "id": 2325,
+      "nombre": "COMBO GAMING 4 EN 1 MARVO CM409",
+      "precio": 41.40,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/6932391923153_800.jpg"
+  },
+  {
+      "id": 2332,
+      "nombre": "Motherboard Asus Prime B460m-A R2.0(1200)",
+      "precio": 319.43,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/90MB18A0-M0EAY0_800-1.jpg"
+  },
+  {
+      "id": 2339,
+      "nombre": "CPU INTEL CORE I3-13100F 4.5GHZ 12MB (S/VIDEO) (LGA1700)",
+      "precio": 286.62,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/11/BX8071513100F_800.jpg"
+  },
+  {
+      "id": 2352,
+      "nombre": "Mini Componente Moonki Mw-H502lt2,0",
+      "precio": 258.79,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/12/7798135512149_800.jpg"
+  },
+  {
+      "id": 2358,
+      "nombre": "NOTEBOOK HDC NY-4020-4128-DB 4GB 128GB W11 ESPAÑOL",
+      "precio": 350.22,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/12/7798135512729_800.jpg"
+  },
+  {
+      "id": 2365,
+      "nombre": "Parlante Potenciado Moonki Sound Ms-115b",
+      "precio": 445.77,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2021/12/7798135512484_800.jpg"
+  },
+  {
+      "id": 2375,
+      "nombre": "TONER GTC HP 285A/435/436/278 UNIVERSAL",
+      "precio": 14.11,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2022/01/WhatsApp-Image-2022-09-19-at-16.33.31.jpeg"
+  },
+  {
+      "id": 2385,
+      "nombre": "Micro Intel I5 10400 4.30 GHZ 12M",
+      "precio": 651.47,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2022/01/5012_800.jpg"
+  },
+  {
+      "id": 2390,
+      "nombre": "Pendrive Sandisk 16 Gb Cruzer Blade Usb 2.0",
+      "precio": 9.90,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2022/01/619659000431_800.jpg"
+  },
+  {
+      "id": 2394,
+      "nombre": "Disco Externo WD Elements 1TB",
+      "precio": 103.53,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2022/01/5506_800.jpg"
+  },
+  {
+      "id": 2399,
+      "nombre": "Disco Externo WD Elements 2TB",
+      "precio": 146.25,
+      "imagenes": "https://detodoinformatica.com.ar/wp-content/uploads/2022/01/4930_800.jpg"
+  }
+
+      ]
+
+
+
+
+

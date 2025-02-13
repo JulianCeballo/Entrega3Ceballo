@@ -1,0 +1,348 @@
+/* General */
+body { 
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 0;
+}
+
+.logo {
+    
+    position: absolute;
+    left: 20px; /* Ajusta según sea necesario */
+    height: 70px; /* altura */
+    width: auto;  /* proporción */
+}
+
+header {
+    background-color: #2a8600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  
+    color: white;
+    padding: 10px 20px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Asegura que el header esté siempre encima del contenido */
+      
+    
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    padding-left: 100px; /* Ajusta según sea necesario */
+}
+
+
+
+#cotizacion {
+    font-size: 12px;
+    margin: 5px;
+    
+}
+
+
+main {
+    margin: 20px auto;
+    max-width: 600px;
+    padding-top: 30px; /* Asegura que el contenido no esté oculto detrás del header fijo */
+}
+
+
+/* Input de búsqueda */
+input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Estilos del carrito */
+.carri {
+    text-align: left;
+    margin: 5px 0;
+}
+
+.btn-carrito {
+    padding: 10px 20px;
+    background-color: #2a8600;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+
+    position: relative;
+    top: -10px; /* Sube el botón 10px */
+}
+
+.btn-carrito:hover {
+    background-color: #45a049;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #2a8600;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Sección del carrito */
+#carrito-section {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #4caf50;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+/* Estilo para la lista de artículos */
+#lista-articulos {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Estilos para los productos */
+.articulo {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.articulo h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.articulo p {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+/* Estilos del carrito en la página de carrito */
+#carrito-lista {
+    padding: 0;
+    list-style: none;
+    margin-top: 10px;
+}
+
+#carrito-lista li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.sumar-articulo {    
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+
+}
+
+.sumar-articulo:hover {
+    background-color: #2a8600;
+}
+
+
+
+.restar-articulo {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.restar-articulo:hover {
+    background-color: darkred;
+}
+
+
+#total-carrito {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.footer-bg {
+    background-color: #2E2E2E; /* Gris Oscuro */
+}
+
+.footer-text {
+    color: #F5F5F5; 
+}
+
+.footer-link {
+    color: #4caf50; /* Verde Principal */
+}
+
+.footer-link:hover {
+    color: #dadada; 
+}
+
+.footer-title {
+    color: #FFFFFF; 
+
+}
+
+.input-group {
+    width: 50%;
+}
+
+
+.search-bar {
+    width: 50%;
+    padding: 0 15px; /* padding  separación */
+}
+
+.fixed-whatsapp {
+    position: fixed;
+    bottom: 20px; /* Ajustar  */
+    right: 20px;  /* Ajustar */
+    z-index: 1000; /* botón esté siempre encima del contenido */
+    background-color: #25D366; /* Color de fondo típico de WhatsApp */
+    color: white; /* Color del ícono */
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-size: 24px;
+}
+
+.fixed-whatsapp:hover {
+    background-color: #128C7E; /* Color de fondo al pasar el ratón */
+}
+
+
+/* Estilos personalizados para el login */
+.login-container {
+    position: relative;
+    
+}
+
+.login-form-container {
+    position: absolute;
+    top: 200%;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.login-form-container.d-none {
+    display: none;
+}
+
+
+
+.fixed-whatsapp {
+    position: fixed;
+    bottom: 20px; 
+    right: 20px;  /* Ajusta según sea necesario */
+    z-index: 1000; /* encima del contenido */
+    background-color: #25D366; /* Color WhatsApp */
+    color: white; /* Color del ícono */
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-size: 24px;
+}
+
+.fixed-whatsapp:hover {
+    background-color: #128C7E; /* Color de fondo al pasar el ratón */
+}
+
+
+@media (max-width: 576px) {
+
+    /* Ajustes para el Header */
+    header {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .logo {
+        order: 1;
+        flex: 1 1 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    #cotizacion {
+        order: 2;
+        flex: 1;
+        text-align: left;
+    }
+
+      
+    .boton-volver-carrito {
+        order: 3;
+        flex: 1;
+        text-align: left;
+    }
+
+    .boton-carrito {
+        order: 4;
+        flex: 1;
+        text-align: left;
+    }
+
+
+    #login-btn {
+        order: 5;
+        flex: 1;
+        text-align: right;
+        margin-top: auto;
+    }
+
+       
+
+    .login-container {
+        order: 5;
+        flex: 1;
+        text-align: right;
+        padding-right: auto;
+       
+    }
+
+    .search-bar {
+        order: 6;
+        width: 80%;
+        margin: 10px auto;
+    }
+
+    /* Ajustes de Espaciado */
+ 
+
+    main {
+        padding-top: 10px;
+    }
+}
